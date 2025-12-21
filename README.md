@@ -3,7 +3,7 @@
 This project is a Selenium + Pytest automation framework for the
 [OrangeHRM demo site](https://opensource-demo.orangehrmlive.com/), based on your assignment:
 
-1. Login as admin (credentials from CLI).
+1. Login as admin (credentials from CLI). 
 2. Create a new employee from the PIM menu with login details.
 3. Save employee details into a JSON array file.
 4. Search the employee in the Directory and verify it appears.
