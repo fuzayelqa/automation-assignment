@@ -1,5 +1,5 @@
 # OrangeHRM Python + Pytest Automation   
-
+ 
 This project is a Selenium + Pytest automation framework for the
 [OrangeHRM demo site](https://opensource-demo.orangehrmlive.com/), based on your assignment:
 
